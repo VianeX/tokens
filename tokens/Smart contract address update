@@ -1,0 +1,3 @@
+`rm -r ./blockchains/<COIN>/assets/<0x86c31e6da2190a1ffd39a36990a44174d0a8be15>/`
+
+`rm -r ./blockchains/ethereum/assets/0x566fF8D8bD6dE69d2af4e3cf9153E2Cc77c7972f/`
